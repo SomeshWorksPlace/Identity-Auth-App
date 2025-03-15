@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\areas\\identity\\data\\context_logindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:areas\\identity\\data\\context_logindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\migrations\\20250315101333_initialmigration_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:migrations\\20250315101333_initialmigration_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|c:\\users\\dilip\\source\\repos\\identityframework_auth\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B0A9A91-4842-4F5E-9204-502704C81548}|IdentityFramework_AUTH.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:25:10.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T10:22:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T10:07:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:21:43.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T05:04:28.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T05:04:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:03:24.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context_LoginDB.cs",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Data\\Context_LoginDB.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\Context_LoginDB.cs",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Areas\\Identity\\Data\\Context_LoginDB.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\Context_LoginDB.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:03:20.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250315101333_InitialMigration_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Migrations\\20250315101333_InitialMigration_Identity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250315101333_InitialMigration_Identity.cs",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\Migrations\\20250315101333_InitialMigration_Identity.cs",
+              "RelativeToolTip": "Migrations\\20250315101333_InitialMigration_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:13:34.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dilip\\source\\repos\\IdentityFramework_AUTH\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-15T05:02:48.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
